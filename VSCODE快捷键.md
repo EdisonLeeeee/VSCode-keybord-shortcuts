@@ -17,7 +17,7 @@
 |Ctrl + Shift + K|删除该行
 |Ctrl + Enter|向下插入一行
 |Ctrl + Shift + Enter|向上插入一行
-|Ctrl + Shift + \\|跳转到匹配的括号前方
+|Ctrl + Shift + \ |跳转到匹配的括号前方
 |Ctrl +  ] / [|整行缩进/凸进
 |Home / End|跳转至行首/行尾
 |Ctrl + Home|跳转到文件开头
@@ -92,7 +92,7 @@
 |-|-|
 |Ctrl + F4, Ctrl + W|关闭编辑页
 |Ctrl + K F|关闭文件夹
-|Ctrl + \|向右拆分编辑页
+|Ctrl + \ | 向右拆分编辑页
 |Ctrl +  1 / 2 / 3|聚焦到第一/第二/第三编辑组
 |Ctrl + K Ctrl +  ←/→|聚焦到前一个/后一个编辑组
 |Ctrl + Shift + PgUp / PgDn|左移/右移编辑页
