@@ -76,7 +76,7 @@
 |快捷键|描述|
 |-|-|
 |Ctrl + Space|触发建议
-|Ctrl + Shift + Space|出发参数提示
+|Ctrl + Shift + Space|触发参数提示
 |Shift + Alt + F|格式化全文
 |Ctrl + K Ctrl + F|格式化选中
 |F12|跳转到定义
@@ -133,7 +133,7 @@
 |Ctrl + Shift + U|显示输出面板
 |Ctrl + Shift + V|显示Markdown预览（另起标签页）
 |Ctrl + K V|在侧边显示Markdown预览
-|Ctrl + K Z|专注模式（双击ESC退出）
+|Ctrl + K Z|禅模式（双击ESC退出）
 
 ## 调试(Debug)
 |快捷键|描述|
