@@ -1,10 +1,31 @@
+<a class="toc" id="table-of-contents"></a>
+# Table of Contents
++ [VSCodeShortCuts](#1)
++ [通用快捷键(General)](#2)
++ [基本编辑快捷键(Basic editing)](#3)
++ [导航(Navigation)](#4)
++ [搜索替换(Search and replace)](#5)
++ [多光标(Multi-cursor and selection)](#6)
++ [富语言编辑(Rich languages editing)](#7)
++ [编辑管理(Editor management)](#8)
++ [文件管理(File management)](#9)
++ [显示(Display)](#10)
++ [调试(Debug)](#11)
++ [集成终端(Integrated terminal)](#12)
+
+
 # VSCodeShortCuts
+[🔙](#table-of-contents)
+
 VSCode快捷键大全
 
 翻译自VSCode官方中文文档，方便查找使用
 
 并附上官方英文文档原文
-## 通用快捷键(General)
+<a class="toc" id ="2"></a>
+# 通用快捷键(General)
+[🔙](#table-of-contents)
+
 |快捷键|描述|
 |-|-|
 |<kbd>Ctrl</kbd> + <kbd>Shift </kbd>+ <kbd>P</kbd>, <kbd>F1</kbd>|显示命令面板
@@ -13,7 +34,10 @@ VSCode快捷键大全
 |<kbd>Ctrl</kbd> + <kbd>Shift </kbd>+ <kbd>W</kbd>|关闭一个新窗口/实例
 |<kbd>Ctrl</kbd> + <kbd>,</kbd>|打开用户设置
 |<kbd>Ctrl</kbd> + <kbd>K</kbd> <kbd>Ctrl</kbd> + <kbd>S</kbd>|键盘快捷方式
-## 基本编辑快捷键(Basic editing)
+<a class="toc" id ="3"></a>
+# 基本编辑快捷键(Basic editing)
+[🔙](#table-of-contents)
+
 |快捷键|描述|
 |-|-|
 |<kbd>Ctrl</kbd> + <kbd>X</kbd>|剪切
@@ -41,7 +65,10 @@ VSCode快捷键大全
 |<kbd>Ctrl</kbd> + <kbd>/</kbd>|切换行注释
 |<kbd>Shift </kbd>+ <kbd>Alt</kbd> + <kbd>A</kbd>|切换块注释
 |<kbd>Alt</kbd> + <kbd>Z</kbd>|切换换行
-## 导航(Navigation)
+<a class="toc" id ="4"></a>
+# 导航(Navigation)
+[🔙](#table-of-contents)
+
 |快捷键|描述|
 |-|-|
 |<kbd>Ctrl</kbd> + <kbd>T</kbd>|显示所有符号
@@ -54,7 +81,10 @@ VSCode快捷键大全
 |<kbd>Ctrl</kbd> + <kbd>Shift </kbd>+ <kbd>Tab</kbd>|浏览编辑组历史
 |<kbd>Alt</kbd> +  <kbd>←</kbd> / <kbd>→</kbd>|向后/向前浏览标签页
 |<kbd>Ctrl</kbd> + <kbd>M</kbd>|切换Tab移动光标
-## 搜索替换(Search and replace)
+<a class="toc" id ="5"></a>
+# 搜索替换(Search and replace)
+[🔙](#table-of-contents)
+
 |快捷键|描述|
 |-|-|
 |<kbd>Ctrl</kbd> + <kbd>F</kbd>|查找
@@ -64,7 +94,10 @@ VSCode快捷键大全
 |<kbd>Ctrl</kbd> + <kbd>D</kbd>|增加选中新的匹配
 |<kbd>Ctrl</kbd> + <kbd>K</kbd> <kbd>Ctrl</kbd> + <kbd>D</kbd>|移动至下一个新的匹配
 |<kbd>Alt</kbd> + <kbd>C</kbd> / <kbd>R</kbd> / <kbd>W</kbd>|切换匹配模式：大小写敏感/正则/整个单词
-## 多光标(Multi-cursor and selection)
+<a class="toc" id ="6"></a>
+# 多光标(Multi-cursor and selection)
+[🔙](#table-of-contents)
+
 |快捷键|描述|
 |-|-|
 |<kbd>Alt</kbd> + <kbd>Click</kbd>|插入光标
@@ -78,7 +111,10 @@ VSCode快捷键大全
 |<kbd>Shift </kbd>+ <kbd>Alt</kbd> +  <kbd>←</kbd>|缩小选中
 |<kbd>Shift </kbd>+ <kbd>Alt</kbd>  + (拖动鼠标)|选中列
 |<kbd>Ctrl</kbd> + <kbd>Shift </kbd>+ <kbd>Alt</kbd> + (翻页)|翻页选中列
-## 富语言编辑(Rich languages editing)
+<a class="toc" id ="7"></a>
+# 富语言编辑(Rich languages editing)
+[🔙](#table-of-contents)
+
 |快捷键|描述|
 |-|-|
 |<kbd>Ctrl</kbd> + <kbd>Space</kbd>|触发建议
@@ -94,7 +130,10 @@ VSCode快捷键大全
 |<kbd>Ctrl</kbd> + <kbd>K</kbd> <kbd>Ctrl</kbd> + <kbd>X</kbd>|去除行尾多余空格
 |<kbd>Ctrl</kbd> + <kbd>K</kbd> <kbd>M</kbd>|改变文件代码语言
 
-## 编辑管理(Editor management)
+<a class="toc" id ="8"></a>
+# 编辑管理(Editor management)
+[🔙](#table-of-contents)
+
 |快捷键|描述|
 |-|-|
 |<kbd>Ctrl</kbd> + <kbd>F4</kbd>, <kbd>Ctrl</kbd> + <kbd>W</kbd>|关闭编辑页
@@ -105,7 +144,10 @@ VSCode快捷键大全
 |<kbd>Ctrl</kbd> + <kbd>Shift </kbd>+ <kbd>PgUp</kbd> / <kbd>PgDn</kbd>|左移/右移编辑页
 |<kbd>Ctrl</kbd> + <kbd>K</kbd> <kbd>←</kbd> / <kbd>→</kbd>|左移/右移动编辑组
 
-## 文件管理(File management)
+<a class="toc" id ="9"></a>
+# 文件管理(File management)
+[🔙](#table-of-contents)
+
 |快捷键|描述|
 |-|-|
 |<kbd>Ctrl</kbd> + <kbd>N</kbd>|新建文件
@@ -123,7 +165,10 @@ VSCode快捷键大全
 |<kbd>Ctrl</kbd> + <kbd>K</kbd> <kbd>R</kbd>|在资源管理器中打开该编辑页文件
 |<kbd>Ctrl</kbd> + <kbd>K</kbd> <kbd>O</kbd>|在新的窗口/实例中打开该编辑页文件
 
-## 显示(Display)
+<a class="toc" id ="10"></a>
+# 显示(Display)
+[🔙](#table-of-contents)
+
 |快捷键|描述|
 |-|-|
 |<kbd>F11</kbd>|切换全拼
@@ -142,7 +187,10 @@ VSCode快捷键大全
 |<kbd>Ctrl</kbd> + <kbd>K</kbd> <kbd>V</kbd>|在侧边显示Markdown预览
 |<kbd>Ctrl</kbd> + <kbd>K</kbd> <kbd>Z</kbd>|禅模式（双击ESC退出）
 
-## 调试(Debug)
+<a class="toc" id ="11"></a>
+# 调试(Debug)
+[🔙](#table-of-contents)
+
 |快捷键|描述|
 |-|-|
 |<kbd>F9</kbd>|插入断点
@@ -152,7 +200,10 @@ VSCode快捷键大全
 |<kbd>F10</kbd>|跨越
 |<kbd>Ctrl</kbd> + <kbd>K</kbd> <kbd>Ctrl</kbd> + <kbd>I</kbd>|显示悬停
 
-## 集成终端(Integrated terminal)
+<a class="toc" id ="12"></a>
+# 集成终端(Integrated terminal)
+[🔙](#table-of-contents)
+
 |快捷键|描述|
 |-|-|
 |<kbd>Ctrl</kbd> + <kbd>\`</kbd>|显示集成终端
